@@ -8,9 +8,7 @@ tauriを使ってMarkdown記法が使える付箋アプリを作ってみる
 
 package manager: bun
 
-Tauri + React + Typescript
-
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Tauri + NextJS
 
 ### Recommended IDE Setup
 
